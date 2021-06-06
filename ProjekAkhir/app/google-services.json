@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "12734252889",
+    "project_id": "projekakhirpemmob",
+    "storage_bucket": "projekakhirpemmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12734252889:android:c942a0d6825c1da2b8ee48",
+        "android_client_info": {
+          "package_name": "com.example.kunglaoPemob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12734252889-02um7s1c93olo8k4f09os037ioggb413.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kunglaoPemob",
+            "certificate_hash": "5fc4b985fc6eca7735f91f8ff290bc565aff0100"
+          }
+        },
+        {
+          "client_id": "12734252889-ds25rail5gorsalvfve8vmgif0ra5p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmclTpSfsA4JxmJDLdt8JphLuZiufQU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12734252889-ds25rail5gorsalvfve8vmgif0ra5p6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12734252889:android:7413eb112e91f66bb8ee48",
+        "android_client_info": {
+          "package_name": "com.example.projectAkhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12734252889-ds25rail5gorsalvfve8vmgif0ra5p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmclTpSfsA4JxmJDLdt8JphLuZiufQU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12734252889-ds25rail5gorsalvfve8vmgif0ra5p6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
